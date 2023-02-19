@@ -9,3 +9,4 @@ Processing projects
 
 ### Stroke animation
 super cool
+<video src='https://user-images.githubusercontent.com/68009977/219967365-bae4b662-12de-47cc-8b54-d62bdf7ccdc1.mp4'/>
